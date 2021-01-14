@@ -14,5 +14,6 @@ This is going to run us through making a git repo, cloning the repo locally and 
 5. Save your file.
 6. Add the saved file to be prepped for commit `git add -A` will add all files changed
 7. Now commit those staged files `git commit -m 'some--string-message-formed-in-the-imperative'`
-8. Finally push those changes to github `git push origin new-branch-name`
-
+8. Push those changes to github `git push origin new-branch-name`
+9. go to github and create a pull request..
+10. Now each time you commit a change and push github will add to the list of commits under that pull request
